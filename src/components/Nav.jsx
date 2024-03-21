@@ -9,7 +9,6 @@ const Nav = () => {
             <a href="/">
                 <img 
                 src = {headerLogo}
-                alt ="Logo"
                 width={130}
                 height = {29}
                 />
